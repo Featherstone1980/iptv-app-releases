@@ -1,5 +1,5 @@
 {
-    "releaseNotes":  "Mobile update v2.0.213: Fixed OTA installer \u0026 download retries, EPG display/text scaling, button contrast (no pure-white buttons), and touch responsiveness across DVR, Settings, EPG \u0026 Video Players.",
-    "versionName":  "2.0.213",
+    "releaseNotes":  "Official update v2.0.215",
+    "versionName":  "2.0.215",
     "downloadUrl":  "https://raw.githubusercontent.com/DevStreamPro/iptv-app-releases/main/mobile-app-release.apk"
 }
